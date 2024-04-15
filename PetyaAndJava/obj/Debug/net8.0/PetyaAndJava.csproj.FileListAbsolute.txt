@@ -1,0 +1,14 @@
+C:\Users\Islam Mohamed\Documents\C# Projects\PetyaAndJava\PetyaAndJava\bin\Debug\net8.0\PetyaAndJava.exe
+C:\Users\Islam Mohamed\Documents\C# Projects\PetyaAndJava\PetyaAndJava\bin\Debug\net8.0\PetyaAndJava.deps.json
+C:\Users\Islam Mohamed\Documents\C# Projects\PetyaAndJava\PetyaAndJava\bin\Debug\net8.0\PetyaAndJava.runtimeconfig.json
+C:\Users\Islam Mohamed\Documents\C# Projects\PetyaAndJava\PetyaAndJava\bin\Debug\net8.0\PetyaAndJava.dll
+C:\Users\Islam Mohamed\Documents\C# Projects\PetyaAndJava\PetyaAndJava\bin\Debug\net8.0\PetyaAndJava.pdb
+C:\Users\Islam Mohamed\Documents\C# Projects\PetyaAndJava\PetyaAndJava\obj\Debug\net8.0\PetyaAndJava.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Islam Mohamed\Documents\C# Projects\PetyaAndJava\PetyaAndJava\obj\Debug\net8.0\PetyaAndJava.AssemblyInfoInputs.cache
+C:\Users\Islam Mohamed\Documents\C# Projects\PetyaAndJava\PetyaAndJava\obj\Debug\net8.0\PetyaAndJava.AssemblyInfo.cs
+C:\Users\Islam Mohamed\Documents\C# Projects\PetyaAndJava\PetyaAndJava\obj\Debug\net8.0\PetyaAndJava.csproj.CoreCompileInputs.cache
+C:\Users\Islam Mohamed\Documents\C# Projects\PetyaAndJava\PetyaAndJava\obj\Debug\net8.0\PetyaAndJava.dll
+C:\Users\Islam Mohamed\Documents\C# Projects\PetyaAndJava\PetyaAndJava\obj\Debug\net8.0\refint\PetyaAndJava.dll
+C:\Users\Islam Mohamed\Documents\C# Projects\PetyaAndJava\PetyaAndJava\obj\Debug\net8.0\PetyaAndJava.pdb
+C:\Users\Islam Mohamed\Documents\C# Projects\PetyaAndJava\PetyaAndJava\obj\Debug\net8.0\PetyaAndJava.genruntimeconfig.cache
+C:\Users\Islam Mohamed\Documents\C# Projects\PetyaAndJava\PetyaAndJava\obj\Debug\net8.0\ref\PetyaAndJava.dll
